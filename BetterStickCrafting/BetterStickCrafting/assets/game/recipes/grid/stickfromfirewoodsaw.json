@@ -1,0 +1,10 @@
+{
+	"ingredientPattern": "FT",
+	"ingredients": {
+		"T": { "type": "item", "code": "firewood"},
+		"F": { "type": "item", "code": "saw-*", "isTool": true}
+	},
+	"width": 1,
+	"height": 2,
+	"output": { "type": "item", "code": "stick", "quantity": 4  }
+}
