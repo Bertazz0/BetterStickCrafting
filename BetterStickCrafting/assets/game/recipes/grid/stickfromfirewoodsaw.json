@@ -1,8 +1,8 @@
 {
 	"ingredientPattern": "FT",
 	"ingredients": {
-		"T": { "type": "item", "code": "saw-*", "isTool": true},
-		"F": { "type": "item", "code": "firewood"}
+		"T": { "type": "item", "code": "firewood"},
+		"F": { "type": "item", "code": "saw-*", "isTool": true}
 	},
 	"width": 1,
 	"height": 2,
